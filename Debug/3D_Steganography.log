@@ -1,0 +1,377 @@
+﻿  pch.cpp
+  3D_Steganography.cpp
+D:\libigl\include\igl\hausdorff.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\glfw\Viewer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\verasansmono_compressed.cpp(39,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\verasansmono_compressed.cpp(56,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\material_colors.h(16,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(17,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(18,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(23,78): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(24,78): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(25,79): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(26,84): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(39,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(40,75): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(43,73): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(44,74): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(45,82): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(47,46): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(48,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(49,44): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(50,44): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(51,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(52,46): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(54,47): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(55,51): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerData.cpp(44,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\opengl\ViewerData.cpp(173,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(183,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(199,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(212,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(349,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(350,45): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(427,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(428,61): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(551,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(562,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(587,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(588,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(589,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(627,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(644,43): warning C4244: “=”: 从“size_t”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(678,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(692,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(768,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(775,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(804,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(818,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(825,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(836,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(850,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(866,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerCore.cpp(37,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(71,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(88,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,60): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,47): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,34): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,21): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,61): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,48): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,35): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,22): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(153,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(158,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(159,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(310,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(317,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(363,21): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(364,22): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(425,19): warning C4244: “参数”: 从“unsigned int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(425,25): warning C4244: “参数”: 从“unsigned int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(480,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(481,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(488,65): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(487,62): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\MshLoader.cpp(161,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(170,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(182,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(209,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(284,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(299,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(302,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(368,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(371,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\MshLoader.cpp(450,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\readMSH.cpp(124,37): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\readMSH.cpp(139,37): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\readSTL.cpp(66,20): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+D:\libigl\include\igl\tinyply.cpp(536,47): warning C4244: “参数”: 从“const int64_t”转换到“const unsigned int”，可能丢失数据
+D:\libigl\include\igl\tinyply.cpp(570,63): warning C4244: “参数”: 从“const int64_t”转换到“const unsigned int”，可能丢失数据
+D:\libigl\include\igl\tinyply.cpp(585,63): warning C4244: “参数”: 从“const int64_t”转换到“const unsigned int”，可能丢失数据
+D:\libigl\include\igl\tinyply.cpp(623,35): warning C4244: “参数”: 从“const int64_t”转换到“const unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(96,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(97,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(105,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(105,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(114,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(165,40): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(170,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(458,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(674,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,51): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,31): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(825,25): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(824,25): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(823,30): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(822,30): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(819,51): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(819,32): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(837,65): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(838,65): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(880,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1158,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1158,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1167,47): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1167,45): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1219,1): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1233,1): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1246,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1289,5): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1301,5): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(715,8): warning C4101: “x”: 未引用的局部变量
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(762,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(774,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(814,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(838,42): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(866,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(876,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(883,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(884,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(895,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(923,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(955,44): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(956,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(979,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1017,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1024,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1035,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1052,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1067,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1200,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1214,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1217,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1260,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1294,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1311,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1331,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1332,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1342,48): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1357,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1358,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1417,30): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1480,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1482,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\ortho.cpp(21,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(154): message : 查看对正在编译的函数 模板 实例化“void igl::ortho<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)”的引用
+D:\libigl\include\igl\ortho.cpp(22,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\ortho.cpp(23,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\frustum.cpp(20,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(160): message : 查看对正在编译的函数 模板 实例化“void igl::frustum<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)”的引用
+D:\libigl\include\igl\frustum.cpp(21,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\frustum.cpp(26,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\two_axis_valuator_fixed_up.cpp(27,62): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(826): message : 查看对正在编译的函数 模板 实例化“void igl::two_axis_valuator_fixed_up<float,float>(const int,const int,const double,const Eigen::Quaternion<float,0> &,const int,const int,const int,const int,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\two_axis_valuator_fixed_up.cpp(36,52): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\serialize.h(512,32): warning C4244: “参数”: 从“std::streamoff”转换到“const unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(897): message : 查看对正在编译的函数 模板 实例化“bool igl::deserialize<igl::opengl::ViewerCore>(T &,const std::string &,const std::string &)”的引用
+          with
+          [
+              T=igl::opengl::ViewerCore
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(106,23): warning C4244: “参数”: 从“const double”转换到“const Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1187): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\trackball.cpp(121,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(157): message : 查看对正在编译的函数 模板 实例化“void igl::trackball<Scalarquat>(const double,const double,const Q_type,const Q_type *,const double,const double,const double,const double,Q_type *)”的引用
+          with
+          [
+              Scalarquat=float,
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(815): message : 查看对正在编译的函数 模板 实例化“void igl::trackball<float,float>(const double,const double,const double,const Eigen::Quaternion<float,0> &,const double,const double,const double,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\trackball.cpp(122,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(123,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(124,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(128,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(129,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(130,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(131,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(48,1): warning C4305: “初始化”: 从“double”到“Q_type”截断
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(106): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<Scalars>(const Q_type *,const Q_type,Q_type *)”的引用
+          with
+          [
+              Scalars=float,
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1187): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(64,1): warning C4244: “+=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(92,22): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\colormap.cpp(1621,22): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\colormap.cpp(1585): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<T>(const double [][3],const T,T &,T &,T &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\libigl\include\igl\colormap.cpp(1664): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<double>(const igl::ColorMapType,const T,T &,T &,T &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(285): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::ColorMapType,const Eigen::MatrixBase<Derived> &,const double,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+D:\libigl\include\igl\colormap.cpp(1622,21): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\internal_angles.cpp(49,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\per_vertex_normals.cpp(70): message : 查看对正在编译的函数 模板 实例化“void igl::internal_angles<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_vertex_normals.cpp(119): message : 查看对正在编译的函数 模板 实例化“void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerVertexNormalsWeightingType,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(521): message : 查看对正在编译的函数 模板 实例化“void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\internal_angles.cpp(51,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\doublearea.cpp(226,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\doublearea.cpp(23): message : 查看对正在编译的函数 模板 实例化“void igl::doublearea_quad<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_vertex_normals.cpp(65): message : 查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\readMESH.cpp(41,8): warning C4101: “still_comments”: 未引用的局部变量
+D:\libigl\include\igl\read_triangle_mesh.cpp(141): message : 查看对正在编译的函数 模板 实例化“bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\read_triangle_mesh.cpp(119): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string &,FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\read_triangle_mesh.cpp(69): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,std::string &,std::string &,std::string &,std::string &)”的引用
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(444): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\unique_rows.cpp(39,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\boundary_facets.cpp(85): message : 查看对正在编译的函数 模板 实例化“void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(116): message : 查看对正在编译的函数 模板 实例化“void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\read_triangle_mesh.cpp(102): message : 查看对正在编译的函数 模板 实例化“void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\parallel_for.h(135,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\parallel_for.h(111): message : 查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::parallel_for::<lambda_1dcbd82c93797c72b4da77c32bd21470>,igl::parallel_for::<lambda_773561217343af4eaaf11ff7b32ff081>,igl::parallel_for::<lambda_1dcbd82c93797c72b4da77c32bd21470>>(const Index,const PreFunctionType &,const FunctionType &,const AccumFunctionType &,const size_t)”的引用
+          with
+          [
+              Index=Index,
+              PreFunctionType=igl::parallel_for::<lambda_1dcbd82c93797c72b4da77c32bd21470>,
+              FunctionType=igl::parallel_for::<lambda_773561217343af4eaaf11ff7b32ff081>,
+              AccumFunctionType=igl::parallel_for::<lambda_1dcbd82c93797c72b4da77c32bd21470>
+          ]
+D:\libigl\include\igl\doublearea.cpp(199): message : 查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::doublearea::<lambda_a1e6a4023792cceed2c6cf6dfa467cd5>>(const Index,const FunctionType &,const size_t)”的引用
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_a1e6a4023792cceed2c6cf6dfa467cd5>
+          ]
+D:\libigl\include\igl\doublearea.cpp(72): message : 查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sortrows.cpp(69,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\unique_rows.cpp(27): message : 查看对正在编译的函数 模板 实例化“void igl::sortrows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(85): message : 查看对正在编译的函数 模板 实例化“void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sortrows.cpp(101,22): warning C4018: “<”: 有符号/无符号不匹配
+  dllmain.cpp
+  正在生成代码...
+    正在创建库 C:\Users\季馨婷\source\repos\3D_Steganography\Debug\My3DSteganography.lib 和对象 C:\Users\季馨婷\source\repos\3D_Steganography\Debug\My3DSteganography.exp
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_MD_CTX_new，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_MD_CTX_free，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_DigestInit_ex，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_DigestUpdate，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_DigestFinal_ex，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+3D_Steganography.obj : error LNK2019: 无法解析的外部符号 _EVP_sha256，函数 "void __cdecl sha256(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?sha256@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV12@@Z) 中引用了该符号
+D:\Program Files\OpenSSL-Win64\lib\libssl.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Program Files\OpenSSL-Win64\lib\libcrypto.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\季馨婷\source\repos\3D_Steganography\Debug\My3DSteganography.dll : fatal error LNK1120: 6 个无法解析的外部命令

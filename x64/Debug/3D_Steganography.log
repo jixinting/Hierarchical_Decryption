@@ -1,0 +1,587 @@
+﻿  pch.cpp
+  3D_Steganography.cpp
+C:\Users\季馨婷\source\repos\3D_Steganography\image_ppm.h(34,13): warning C4309: “参数”: 截断常量值
+D:\libigl\include\igl\hausdorff.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\glfw\Viewer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\bind_vertex_attrib_array.cpp(21,35): warning C4244: “参数”: 从“Eigen::Index”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\verasansmono_compressed.cpp(39,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\verasansmono_compressed.cpp(56,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\MeshGL.cpp(222,33): warning C4244: “参数”: 从“Eigen::Index”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\MeshGL.cpp(230,44): warning C4244: “参数”: 从“Eigen::Index”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\MeshGL.cpp(235,46): warning C4244: “参数”: 从“Eigen::Index”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\MeshGL.cpp(240,58): warning C4244: “参数”: 从“Eigen::Index”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerCore.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\material_colors.h(16,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(17,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(18,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(23,78): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(24,78): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(25,79): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(26,84): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(39,77): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(40,75): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(43,73): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(44,74): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(45,82): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(47,46): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(48,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(49,44): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(50,44): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(51,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(52,46): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(54,47): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\material_colors.h(55,51): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\internal_angles.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\opengl\ViewerData.cpp(44,1): warning C4305: “参数”: 从“double”到“const float”截断
+D:\libigl\include\igl\opengl\ViewerData.cpp(296,53): warning C4244: “参数”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(347,14): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(401,15): warning C4244: “=”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(425,14): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(451,14): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(587,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(588,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(589,35): warning C4244: “=”: 从“_Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(627,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\opengl\ViewerData.cpp(629,49): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(644,43): warning C4244: “=”: 从“size_t”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(833,39): warning C4244: “=”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerData.cpp(834,39): warning C4244: “=”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(37,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(71,74): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(88,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,60): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,47): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,34): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(96,21): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,61): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,48): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,35): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(130,22): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(153,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(158,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(159,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(310,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(317,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(359,18): warning C4244: “初始化”: 从“Eigen::Index”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(360,19): warning C4244: “初始化”: 从“Eigen::Index”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(363,21): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(364,22): warning C4244: “=”: 从“float”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(425,19): warning C4244: “参数”: 从“unsigned int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(425,25): warning C4244: “参数”: 从“unsigned int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(480,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(481,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(488,65): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(487,62): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\polygons_to_triangles.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\libigl\include\igl\MshLoader.cpp(175,63): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\libigl\include\igl\MshLoader.cpp(191,65): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\libigl\include\igl\MshLoader.cpp(219,59): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\libigl\include\igl\MshLoader.cpp(223,61): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(96,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(97,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(105,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(105,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(114,26): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(165,40): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(170,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,51): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(721,31): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(825,25): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(824,25): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(823,30): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(822,30): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(819,51): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(819,32): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(837,65): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(838,65): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(880,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1158,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1158,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1167,47): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1167,45): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1215,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1217,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1229,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1231,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1286,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1288,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1298,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1300,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(631,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(648,86): warning C4190: “octetToBinary”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(660,80): warning C4190: “stringToBinary”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(711,8): warning C4101: “x”: 未引用的局部变量
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(734,76): warning C4190: “getMantissa”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753,97): warning C4190: “sortBits”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(778,89): warning C4190: “decimalToBinary”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(825,119): warning C4190: “generateBlocks”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(834,42): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(858,105): warning C4190: “generateMask”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<int,std::allocator<int>>”
+D:\libigl\include\igl\readOFF.cpp(175): message : 参见“std::vector<int,std::allocator<int>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(888,138): warning C4190: “divideBlock”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(907,90): warning C4190: “padBlock”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(908,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(916,202): warning C4190: “createBlockStreams”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(946,141): warning C4190: “generateStreams”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(951,44): warning C4244: “参数”: 从“const double”转换到“const float”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(972,99): warning C4190: “generateMaskSingleBlock”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<int,std::allocator<int>>”
+D:\libigl\include\igl\readOFF.cpp(175): message : 参见“std::vector<int,std::allocator<int>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(987,102): warning C4190: “unshuffleBits”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(989,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1008,175): warning C4190: “streamToBlocks”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1009,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1050,88): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1153,80): warning C4190: “binaryToString”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1173,108): warning C4190: “generateKey”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1194,92): warning C4190: “binaryXOR”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<bool,std::allocator<bool>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(629): message : 参见“std::vector<bool,std::allocator<bool>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1206,123): warning C4190: “divideIntoBlocks”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1232,167): warning C4190: “hierarchicalEncryption”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1267,167): warning C4190: “hierarchicalDecryption”有指定的 C 链接，但返回了与 C 不兼容的 UDT“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(753): message : 参见“std::vector<std::vector<bool,std::allocator<bool>>,std::allocator<std::vector<bool,std::allocator<bool>>>>”的声明
+C:\Users\季馨婷\source\repos\3D_Steganography\3D_Steganography.cpp(1456,94): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\ortho.cpp(21,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(154): message : 查看对正在编译的函数 模板 实例化“void igl::ortho<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)”的引用
+D:\libigl\include\igl\ortho.cpp(22,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\ortho.cpp(23,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\frustum.cpp(20,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\opengl\ViewerCore.cpp(160): message : 查看对正在编译的函数 模板 实例化“void igl::frustum<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)”的引用
+D:\libigl\include\igl\frustum.cpp(21,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\frustum.cpp(26,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\libigl\include\igl\two_axis_valuator_fixed_up.cpp(27,62): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(826): message : 查看对正在编译的函数 模板 实例化“void igl::two_axis_valuator_fixed_up<float,float>(const int,const int,const double,const Eigen::Quaternion<float,0> &,const int,const int,const int,const int,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\two_axis_valuator_fixed_up.cpp(36,52): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(106,23): warning C4244: “参数”: 从“const double”转换到“const Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1187): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\per_face_normals.cpp(21,13): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_face_normals.cpp(46): message : 查看对正在编译的函数 模板 实例化“void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,3,1,0,3,1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Eigen::Matrix<double,3,1,0,3,1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(520): message : 查看对正在编译的函数 模板 实例化“void igl::per_face_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\list_to_matrix.cpp(22,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\readOBJ.cpp(315): message : 查看对正在编译的函数 模板 实例化“bool igl::list_to_matrix<double,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(430): message : 查看对正在编译的函数 模板 实例化“bool igl::readOBJ<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\trackball.cpp(121,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(157): message : 查看对正在编译的函数 模板 实例化“void igl::trackball<Scalarquat>(const double,const double,const Q_type,const Q_type *,const double,const double,const double,const double,Q_type *)”的引用
+          with
+          [
+              Scalarquat=float,
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(815): message : 查看对正在编译的函数 模板 实例化“void igl::trackball<float,float>(const double,const double,const double,const Eigen::Quaternion<float,0> &,const double,const double,const double,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\trackball.cpp(122,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(123,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(124,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(128,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(129,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(130,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\trackball.cpp(131,23): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\unproject.cpp(36,25): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+D:\libigl\include\igl\unproject.cpp(65): message : 查看对正在编译的函数 模板 实例化“void igl::unproject<Derived,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,1,0,4,1>,Eigen::Matrix<float,3,1,0,3,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,1,0,4,1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(837): message : 查看对正在编译的函数 模板 实例化“Eigen::Matrix<float,3,1,0,3,1> igl::unproject<float>(const Eigen::Matrix<float,3,1,0,3,1> &,const Eigen::Matrix<float,4,4,0,4,4> &,const Eigen::Matrix<float,4,4,0,4,4> &,const Eigen::Matrix<float,4,1,0,4,1> &)”的引用
+D:\libigl\include\igl\unproject.cpp(36,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(48,1): warning C4305: “初始化”: 从“double”到“Q_type”截断
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(106): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<Scalars>(const Q_type *,const Q_type,Q_type *)”的引用
+          with
+          [
+              Scalars=float,
+              Q_type=float
+          ]
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(1187): message : 查看对正在编译的函数 模板 实例化“bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)”的引用
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(64,1): warning C4244: “+=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\snap_to_canonical_view_quat.cpp(92,22): warning C4244: “=”: 从“double”转换到“Q_type”，可能丢失数据
+          with
+          [
+              Q_type=float
+          ]
+D:\libigl\include\igl\readOBJ.cpp(170,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\readOBJ.cpp(41): message : 查看对正在编译的函数 模板 实例化“bool igl::readOBJ<double,int>(FILE *,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::tuple<std::string,int,int>,std::allocator<std::tuple<std::string,int,int>>> &)”的引用
+D:\libigl\include\igl\readOBJ.cpp(308): message : 查看对正在编译的函数 模板 实例化“bool igl::readOBJ<double,int>(const std::string,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)”的引用
+D:\libigl\include\igl\readOBJ.cpp(174,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\readOBJ.cpp(178,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\colormap.cpp(1621,22): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\colormap.cpp(1585): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<T>(const double [][3],const T,T &,T &,T &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\libigl\include\igl\colormap.cpp(1664): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<double>(const igl::ColorMapType,const T,T &,T &,T &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(285): message : 查看对正在编译的函数 模板 实例化“void igl::colormap<Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const igl::ColorMapType,const Eigen::MatrixBase<Derived> &,const double,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,1,0,-1,1>
+          ]
+D:\libigl\include\igl\colormap.cpp(1622,21): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+D:\libigl\include\igl\doublearea.cpp(25,25): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_vertex_normals.cpp(65): message : 查看对正在编译的函数 模板 实例化“void igl::doublearea<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_vertex_normals.cpp(119): message : 查看对正在编译的函数 模板 实例化“void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const igl::PerVertexNormalsWeightingType,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\opengl\ViewerData.cpp(521): message : 查看对正在编译的函数 模板 实例化“void igl::per_vertex_normals<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Derived,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\doublearea.cpp(25,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\doublearea.cpp(53,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\doublearea.cpp(65,1): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\unproject.cpp(36,25): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,1,3,1,1,3>
+          ]
+D:\libigl\include\igl\unproject.cpp(31): message : 查看对正在编译的函数 模板 实例化“void igl::unproject<Derived,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,1,0,4,1>,Eigen::Matrix<float,1,3,1,1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,1,0,4,1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,1,3,1,1,3>
+          ]
+D:\libigl\include\igl\unproject.cpp(65): message : 查看对正在编译的函数 模板 实例化“void igl::unproject<Derived,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,4,0,4,4>,Eigen::Matrix<float,4,1,0,4,1>,Eigen::Matrix<float,3,1,0,3,1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,4,0,4,4>> &,const Eigen::MatrixBase<Eigen::Matrix<float,4,1,0,4,1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+D:\libigl\include\igl\unproject.cpp(36,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<float,1,3,1,1,3>
+          ]
+D:\libigl\include\igl\squared_edge_lengths.cpp(19,23): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\internal_angles.cpp(28): message : 查看对正在编译的函数 模板 实例化“void igl::squared_edge_lengths<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\per_vertex_normals.cpp(70): message : 查看对正在编译的函数 模板 实例化“void igl::internal_angles<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,3,0,-1,3>>(const Eigen::MatrixBase<Derived> &,const Eigen::MatrixBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,3,0,-1,3>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\squared_edge_lengths.cpp(19,15): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(33,34): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(116): message : 查看对正在编译的函数 模板 实例化“void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\read_triangle_mesh.cpp(102): message : 查看对正在编译的函数 模板 实例化“void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\read_triangle_mesh.cpp(69): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,std::string &,std::string &,std::string &,std::string &)”的引用
+D:\libigl\include\igl\opengl\glfw\Viewer.cpp(444): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\boundary_facets.cpp(33,26): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(89,40): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\boundary_facets.cpp(89,18): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\readMESH.cpp(41,8): warning C4101: “still_comments”: 未引用的局部变量
+D:\libigl\include\igl\read_triangle_mesh.cpp(141): message : 查看对正在编译的函数 模板 实例化“bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\read_triangle_mesh.cpp(119): message : 查看对正在编译的函数 模板 实例化“bool igl::read_triangle_mesh<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string &,FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\polygon_corners.cpp(28,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\read_triangle_mesh.cpp(198): message : 查看对正在编译的函数 模板 实例化“void igl::polygon_corners<int,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+D:\libigl\include\igl\sort.cpp(30,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\doublearea.cpp(162): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\doublearea.cpp(72): message : 查看对正在编译的函数 模板 实例化“void igl::doublearea<Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<double,-1,1,0,-1,1>>(const Eigen::MatrixBase<Eigen::Matrix<double,-1,3,0,-1,3>> &,const double,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,1,0,-1,1>> &)”的引用
+D:\libigl\include\igl\sort.cpp(43,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(74,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\sort.cpp(78,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\parallel_for.h(110,62): warning C4244: “参数”: 从“Index”转换到“const int”，可能丢失数据
+          with
+          [
+              Index=Index
+          ]
+D:\libigl\include\igl\doublearea.cpp(199): message : 查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::doublearea::<lambda_ba57a3346ac4343c1a6315b026c5a76b>>(const Index,const FunctionType &,const size_t)”的引用
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_ba57a3346ac4343c1a6315b026c5a76b>
+          ]
+D:\libigl\include\igl\unique_rows.cpp(30,34): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\boundary_facets.cpp(85): message : 查看对正在编译的函数 模板 实例化“void igl::unique_rows<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::DenseBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(116): message : 查看对正在编译的函数 模板 实例化“void igl::boundary_facets<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,1,0,-1,1>,Eigen::Matrix<int,-1,1,0,-1,1>>(const Eigen::MatrixBase<Derived> &,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,1,0,-1,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\unique_rows.cpp(30,22): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\unique_rows.cpp(31,34): warning C4244: “初始化”: 从“Eigen::Index”转换到“int”，可能丢失数据
+D:\libigl\include\igl\unique_rows.cpp(31,22): warning C4244: “初始化”: 从“Eigen::Index”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\unique_rows.cpp(64,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\unique_rows.cpp(64,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\libigl\include\igl\sort.cpp(178,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(37): message : 查看对正在编译的函数 模板 实例化“void igl::sort2<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\doublearea.cpp(162): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(180,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(224,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(39): message : 查看对正在编译的函数 模板 实例化“void igl::sort3<Derived,Eigen::Matrix<double,-1,3,0,-1,3>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\sort.cpp(226,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,3,0,-1,3>
+          ]
+D:\libigl\include\igl\parallel_for.h(135,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\libigl\include\igl\parallel_for.h(111): message : 查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::parallel_for::<lambda_6423cada1921218fb93498fcae3a3e31>,igl::parallel_for::<lambda_21795cb196e5a5441c19aff0747ed456>,igl::parallel_for::<lambda_6423cada1921218fb93498fcae3a3e31>>(const Index,const PreFunctionType &,const FunctionType &,const AccumFunctionType &,const size_t)”的引用
+          with
+          [
+              Index=Index,
+              PreFunctionType=igl::parallel_for::<lambda_6423cada1921218fb93498fcae3a3e31>,
+              FunctionType=igl::parallel_for::<lambda_21795cb196e5a5441c19aff0747ed456>,
+              AccumFunctionType=igl::parallel_for::<lambda_6423cada1921218fb93498fcae3a3e31>
+          ]
+D:\libigl\include\igl\doublearea.cpp(199): message : 查看对正在编译的函数 模板 实例化“bool igl::parallel_for<Index,igl::doublearea::<lambda_ba57a3346ac4343c1a6315b026c5a76b>>(const Index,const FunctionType &,const size_t)”的引用
+          with
+          [
+              Index=Index,
+              FunctionType=igl::doublearea::<lambda_ba57a3346ac4343c1a6315b026c5a76b>
+          ]
+D:\libigl\include\igl\sort.cpp(30,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(92): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\boundary_facets.cpp(81): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(43,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\list_to_matrix.cpp(59,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\libigl\include\igl\readSTL.cpp(32): message : 查看对正在编译的函数 模板 实例化“bool igl::list_to_matrix<double,3,Eigen::Matrix<double,-1,-1,0,-1,-1>>(const std::vector<std::array<double,3>,std::allocator<std::array<double,3>>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\readSTL.cpp(309): message : 查看对正在编译的函数 模板 实例化“bool igl::readSTL<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(std::istream &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\read_triangle_mesh.cpp(175): message : 查看对正在编译的函数 模板 实例化“bool igl::readSTL<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<double,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &)”的引用
+D:\libigl\include\igl\sort.cpp(178,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(37): message : 查看对正在编译的函数 模板 实例化“void igl::sort2<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(92): message : 查看对正在编译的函数 模板 实例化“void igl::sort<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(180,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(224,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(39): message : 查看对正在编译的函数 模板 实例化“void igl::sort3<Derived,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const Eigen::DenseBase<Derived> &,const int,const bool,Eigen::PlainObjectBase<Derived> &,Eigen::PlainObjectBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+D:\libigl\include\igl\sort.cpp(226,17): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+          with
+          [
+              Derived=Eigen::Matrix<int,-1,-1,0,-1,-1>
+          ]
+  dllmain.cpp
+  正在生成代码...
+    正在创建库 C:\Users\季馨婷\source\repos\3D_Steganography\x64\Debug\My3DSteganography.lib 和对象 C:\Users\季馨婷\source\repos\3D_Steganography\x64\Debug\My3DSteganography.exp
+  3D_Steganography.vcxproj -> C:\Users\季馨婷\source\repos\3D_Steganography\x64\Debug\My3DSteganography.dll
