@@ -10,6 +10,8 @@
 #define MY3DSTEGANOGRAPHY_API __declspec(dllexport)
 #endif
 
+
+
 // 此类是从 dll 导出的
 class MY3DSTEGANOGRAPHY_API CMy3DSteganography {
 public:
